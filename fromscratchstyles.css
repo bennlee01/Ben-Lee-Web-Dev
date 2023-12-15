@@ -1,0 +1,127 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #c0c9bf; /* Light grey background color */
+    text-align: center; /* Center content horizontally */
+    background-image: url('assets/img/ice-rink-background-sports.jpg'); 
+    background-size: cover; /* Cover the entire background */
+    background-repeat: no-repeat; /* Do not repeat the background image */
+    background-position: center; /* Center the background image */
+    color: black; 
+}
+
+ol, ul {
+    margin-top: 0;
+    padding-left: 20px;
+}
+
+iframe {
+    width: 100%;
+    max-width: 560px;
+    height: 315px;
+    margin-top: 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+iframe {
+    max-width: 50%;
+}
+
+.image-container {
+    text-align: center; /* Center the images within the container */
+}
+
+.image-container img {
+    width: 30%; /* Adjust the width as needed to fit three images in a row */
+    margin: 5px; /* Add margin for spacing between images */
+}
+
+
+/* Adjust the size of the video container */
+.video-container {
+    max-width: 40%;
+    margin: 0 auto; /* Center the video horizontally */
+
+}
+
+/* Ensure the video is responsive */
+.video-container iframe {
+    max-width: 100%;
+}
+
+
+body {
+    text-align: center; /* Center content horizontally */
+}
+
+.tableau-container {
+    margin: 20px auto; /* Center content vertically with top and bottom margin */
+}
+
+
+body {
+    text-align: center; /* Center content horizontally */
+}
+
+ol {
+    text-align: left; /* Align text within the list to the left */
+    margin: 20px auto; /* Center content vertically with top and bottom margin */
+}
+
+.tableau-container {
+    margin: 20px auto; /* Center content vertically with top and bottom margin */
+}
+
+.text-container {
+    background-color: #f8f8f8; /* Light gray background color */
+    border: 1px solid #ddd; /* Light gray border */
+    padding: 15px;
+    margin-bottom: 20px;
+    margin-left: 10px; /* Adjust as needed for the overall indentation */
+}
+
+.text-container li {
+    list-style-type: square;
+    margin-bottom: 8px; /* Adjust as needed */
+    padding-left: 20px; /* Adjust as needed for the indentation inside the border */
+}
+
+
+/* Style for the main headers */
+.header-container {
+    background-color: #f8f8f8; /* Same color as the text background */
+    border: 2px solid #333;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+/* Style for the subheaders */
+.subheader-container {
+    background-color: #f8f8f8; /* Same color as the text background */
+    border: 2px solid #555;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.image-container {
+    text-align: center;
+}
+
+.image-container img {
+    width: 30%;
+    margin: 5px;
+    border: 1px solid #ddd;
+}
+
+.text-container {
+    list-style-type: square;
+    margin-bottom: 8px;
+    padding-left: 20px;
+    border: 1px solid #ddd;
+}
+
